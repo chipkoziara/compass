@@ -1,2 +1,0 @@
-# compass
-Misc Compass Projects
